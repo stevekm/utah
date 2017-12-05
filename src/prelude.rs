@@ -18,3 +18,4 @@ pub use mixedtypes::*;
 pub use util::macros::*;
 pub use util::error::*;
 pub use util::readcsv::*;
+pub use util::readtsv::*;
